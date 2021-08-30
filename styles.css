@@ -1,0 +1,40 @@
+html, body, .container {
+    height: 100%;
+    length: 100%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.container {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clock {
+    overflow: hidden;
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background: url(images/BG3.png);
+}
+
+.hands {
+    overflow: hidden;
+    position: absolute;
+    left: 633px;
+    top: 218px;
+    transform: translate(-50%, -50%)
+    
+}
+
+.frame{
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}

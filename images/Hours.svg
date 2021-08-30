@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="750" height="1500" viewBox="0 0 750 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3e3e3;
+      }
+
+      .cls-2 {
+        fill: #8d8d8d;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="376" y="365" width="9" height="385.719" class="cls-1"/>
+    <rect x="386" y="421" width="9" height="329" class="cls-1"/>
+    <rect x="385" y="421" width="1" height="329" class="cls-2"/>
+    <rect x="375" y="468" width="1" height="282" class="cls-2"/>
+    <rect x="366" y="468" width="9" height="282" class="cls-1"/>
+    <rect x="396" y="504" width="9" height="246" class="cls-1"/>
+    <rect x="395" y="504" width="1" height="246" class="cls-2"/>
+    <rect x="356" y="542" width="9" height="208" class="cls-1"/>
+    <rect x="365" y="542" width="1" height="208" class="cls-2"/>
+  </g>
+</svg>
