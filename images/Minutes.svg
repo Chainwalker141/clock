@@ -11,10 +11,10 @@
     </style>
   </defs>
   <g>
-    <rect x="376" y="185" width="9" height="565.156" class="cls-1"/>
-    <rect x="386" y="267" width="9" height="483" class="cls-1"/>
-    <rect x="385" y="267" width="1" height="483" class="cls-2"/>
-    <rect x="375" y="336" width="1" height="414" class="cls-2"/>
-    <rect x="366" y="336" width="9" height="414" class="cls-1"/>
+    <rect x="371" y="185" width="9" height="565.156" class="cls-1"/>
+    <rect x="381" y="266.781" width="9" height="483.375" class="cls-1"/>
+    <rect x="380" y="266.781" width="1" height="483.375" class="cls-2"/>
+    <rect x="370" y="335.594" width="1" height="414.562" class="cls-2"/>
+    <rect x="361" y="335.594" width="9" height="416.406" class="cls-1"/>
   </g>
 </svg>

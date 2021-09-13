@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="750" height="750" viewBox="0 0 750 750">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+    </style>
+  </defs>
+  <circle cx="375.5" cy="375.5" r="107.5" class="cls-1"/>
+</svg>
